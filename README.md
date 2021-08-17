@@ -1,4 +1,6 @@
 # SMAUG-Toolbox
+IMPORTANT: For the primary version of this repository that is maintained by LabMonti, go to https://github.com/LabMonti/SMAUG-Toolbox. This clone was created in August 2021 as a record of my personal contributions. All of the code in this repository was written by me. 
+
 Single Molecule Analysis Unified Graphical (SMAUG) Toolbox
 
 This software package contains a suite of graphical analysis tools for analyzing single molecule distance/conductance breaking trace data, including Segment Clustering as described in Bamberger et al. 2020 (https://doi.org/10.1021/acs.jpcc.0c03612).  
